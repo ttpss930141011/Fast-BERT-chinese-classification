@@ -28,6 +28,8 @@ fast_bert算是新套件，會頻繁更新
 
 我程式碼在以後的版本不一定以後能用
 
+模型訓練完後要進行文本預測的程式碼我會放在另外一邊，在我的github找找看
+
 
 
 感謝wshuyi大大開啟我的fast_bert深度學習之路
@@ -45,4 +47,5 @@ pytorch_transformers這個套件也會一直更新
 所以要看改了哪裡，去調適程式碼
 
 有甚麼更新的話請在fast_bert作者Kaushal Trivedi的github查詢或提問
+https://github.com/kaushaltrivedi/fast-bert
 
