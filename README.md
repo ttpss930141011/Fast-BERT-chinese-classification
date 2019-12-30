@@ -47,7 +47,7 @@ https://github.com/ttpss930141011/fast_bert-Model-Prediction
 感謝wshuyi大大開啟我的fast_bert深度學習之路  
 想入門的話可以看此為大大的詳細教學文  
 了解一下各參數所代表的意義  
-https://zhuanlan.zhihu.com/p/66440354
+https://zhuanlan.zhihu.com/p/66440354  
 與Github  
 https://github.com/wshuyi
 
