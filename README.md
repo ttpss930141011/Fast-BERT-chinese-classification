@@ -27,6 +27,7 @@ https://github.com/ttpss930141011/Dcard_comment-Crawler
 但正常的對話有可能是一句話包含label1、label2、label3的  
 模型的訓練集也可以這樣輸入，進而訓練出更貼近人的模型  
 相對的訓練數據也需要更多
+阿幹我就是一個人阿 所以就這樣吧
 
 
 python 3.6 用colab做訓練  
