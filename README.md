@@ -16,7 +16,7 @@
 
 資料來源是dcard心情版和關係版  
 如果要爬蟲的話在這邊  
-https://github.com/ttpss930141011/Dcard_comment-Crawler
+https://github.com/ttpss930141011/Dcard_comment-Crawler  
 這個爬蟲也可以爬其他版的ㄛ
 
 
@@ -48,7 +48,7 @@ https://github.com/ttpss930141011/fast_bert-Model-Prediction
 想入門的話可以看此為大大的詳細教學文  
 了解一下各參數所代表的意義  
 https://zhuanlan.zhihu.com/p/66440354
-
-
+與Github  
+https://github.com/wshuyi
 
 
