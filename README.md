@@ -1,6 +1,6 @@
 # fast_bert繁體中文文本分類
 
-#環境  
+# 環境  
 python 3.6 用colab做訓練  
 nvcc和torch.version.cuda版本要一樣才可以跑  
 fast_bert算是新套件，會頻繁更新  
@@ -12,7 +12,7 @@ fast_bert算是新套件，會頻繁更新
 https://github.com/kaushaltrivedi/fast-bert
 
 
-#分類  
+# 分類  
 
 分類洋蔥理論的語句
 
@@ -28,14 +28,14 @@ https://github.com/kaushaltrivedi/fast-bert
 只要對話從最外層label 1慢慢往內層前進，就代表那個人跟自己的羈絆越深  
 再用其他程式碼輔助兩人對話。
 
-#資料來源  
+# 資料來源  
 
 來自Dcard心情版和關係版  
 如果要爬蟲的話在這邊  
 https://github.com/ttpss930141011/Dcard_comment-Crawler  
 這個爬蟲也可以爬其他版的ㄛ
 
-#模型正確性  
+# 模型正確性  
 此模型的lable 3很不準，因為資料量少  
 我只有一個人搞這個，資料自己標記到2000多筆就不錯了拉  
 我的訓練資料有缺點，我強制把資料轉為互斥型態  
@@ -46,13 +46,11 @@ https://github.com/ttpss930141011/Dcard_comment-Crawler
 阿幹我就是一個人阿 所以就這樣吧
 
 
-
-
-#模型訓練後的prediction  
+# 模型訓練後的prediction  
 模型訓練完後要進行文本預測的程式碼我會放在這邊  
 https://github.com/ttpss930141011/fast_bert-Model-Prediction
 
-#致謝  
+# 致謝  
 感謝wshuyi大大開啟我的fast_bert深度學習之路  
 想入門的話可以看此為大大的詳細教學文  
 了解一下各參數所代表的意義  
